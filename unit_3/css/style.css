@@ -24,4 +24,5 @@ p {
   margin-left: 8em;
 }
 ul {margin-left: 8em;
+  list-style-type: none;
 }
