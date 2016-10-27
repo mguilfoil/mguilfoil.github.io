@@ -1,0 +1,27 @@
+body {
+  text-align: left;
+  background: url("../images/OHhero.png");
+  background-size: cover;
+  color: #fffff;
+  font-family: Helvetica;
+}
+h1 {font-size: 100px;
+	margin-top: 2.5em;
+    margin-bottom: 0em;
+    margin-left: 1em;
+    margin-right: 0;
+    letter-spacing: -8px;
+}
+h2 {font-size: 24px;
+	font-family:Times;
+	font-style: italic;
+	font-weight: 100;
+	margin-left: 4.75em;
+}
+p {
+	width:550px;
+  font-size:14px;
+  margin-left: 8em;
+}
+ul {margin-left: 8em;
+}
