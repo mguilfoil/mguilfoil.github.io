@@ -1,6 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+
+
 body {
   text-align: left;
-  background: url("../images/OHhero.png");
+  background: url("../images/OHhero.jpeg");
   background-size: cover;
   color: #fffff;
   font-family: Helvetica;
@@ -20,16 +24,17 @@ h1 {
 
 
 h2 {
-  font-size: 24px;
-	font-family:Times;
+  font-size: 18px;
+	font-family:Georgia;
 	font-style: italic;
 	font-weight: 100;
-	margin-left: 4.75em;
+	margin-left: 6.25em;
 }
 
 
 
 p {
+  font-family: 'Dosis', sans-serif;
 	width: 550px;
   font-size: 14px;
   margin-left: 8em;
@@ -38,6 +43,7 @@ p {
 
 
 ul {
+  font-family: 'Dosis', sans-serif;
   margin-left: 8em;
   list-style-type: none;
 }
